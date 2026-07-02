@@ -1,93 +1,100 @@
 Clinical AI Portfolio
 
-Author
-
 Dr. Nasser Sobhan
 
 Physician | Clinical AI Specialist | Medical AI Reviewer | Clinical Prompt Engineering | Healthcare AI
 
+About Me
 
+Experienced physician with over 30 years of clinical practice and a strong focus on Clinical Artificial Intelligence applications.
+My work focuses on integrating AI into healthcare workflows, clinical documentation, medication safety, patient communication, and
+prompt engineering.
+This portfolio demonstrates practical Clinical AI workflow design projects developed to supporthealthcare professionals while maintaining
+physician oversight and patient safety.
 
-Project 1
+Clinical AI Projects
 
-AI-Assisted Differential Diagnosis Workflow
+1. AI-Assisted Differential Diagnosis Workflow
 
-A structured workflow demonstrating how artificial intelligence can support differential diagnosis generation, clinical reasoning, and diagnostic prioritization while maintaining physician oversight.
+A structured workflow demonstrating how AI can support differential diagnosis generation,clinical reasoning, diagnostic prioritization, and
+physician validation.
 
-Key Components
+Key Areas:
+Clinical reasoning
+Diagnostic support
+Risk prioritization
+Human-AI collaboration
 
-. Clinical data collection
-. Symptom analysis
-. Differential diagnosis generation
-. Diagnostic prioritization
-. Physician review and validation
+2. Clinical Note Summarization and AI Quality Review Workflow
 
+A workflow designed to improve clinical documentation efficiency through AI-assisted
+note summarization and quality review.
 
+Key Areas:
+Documentation optimization
+Clinical summarization
+Quality assurance
+Workflow efficiency
 
-Project 2
+3. Medication Safety Review and AI Assisted Drug Interaction Analysis
 
-Clinical Note Summarization and AI Quality Review Workflow
+A medication safety workflow focused on identifying drug interactions, medication risks,and polypharmacy concerns.
 
-A workflow designed to improve clinical documentation efficiency through AI-assisted summarization and quality assessment of medical notes.
+Key Areas:
+Medication safety
+Drug interaction review
+Risk assessment
+Clinical validation
 
-Key Components
+4. AI-Assisted Patient Education and Health Communication Workflow
 
-. Clinical note review
-. AI summarization
-. Quality assurance checks
-. Documentation optimization
-. Physician validation
+A healthcare communication workflow designed to translate complex medical information into patient-friendly educational materials.
 
+Key Areas:
+Patient education
+Health literacy
+Communication optimization
+Personalized healthcare information
 
+5. Clinical AI Prompt Library and Prompt Optimization Framework
 
-Project 3
+A structured framework for prompt engineering,prompt optimization, and AI governance in healthcare environments.
 
-Medication Safety Review and AI-Assisted Drug Interaction Analysis
+Key Areas
+Prompt engineering
+AI quality assurance
+Clinical AI governance
+Workflow design
+Core Competencies
+Clinical AI Workflow Design
+Clinical Documentation Optimization
+Medical AI Review
+Prompt Engineering
+Healthcare AI Strategy
+Human-AI Collaboration
+AI Quality Assurance
+Medication Safety Review
+Patient Education Design
+Clinical Decision Support
+Professional Interests
+Clinical AI Implementation
+Healthcare Innovation
+AI Governance
+Medical Documentation
+Digital Health
+Clinical Operations
+Healthcare Workflow Automation
 
-A clinical workflow demonstrating the use of AI to identify potential medication risks, drug interactions, and safety concerns.
+Connect
 
-Key Components
+LinkedIn:
+www.linkedin.com/in/nasser-sobhan
+GitHub:
+github.com/drnassersobhan-gif
 
-. Medication reconciliation
-. Drug interaction screening
-. Safety risk assessment
-. Clinical recommendation generation
-. Final physician review
+Disclaimer
 
-
-
-Project 4
-
-AI-Assisted Patient Education and Health Communication Workflow
-
-A workflow focused on generating patient-friendly educational materials while ensuring medical accuracy and clarity.
-
-Key Components
-
-. Medical information review
-. Plain-language transformation
-. Patient education generation
-. Readability assessment
-. Clinical verification
-
-
-
-Project 5
-
-Clinical AI Prompt Library and Prompt Optimization Framework
-
-A professional framework for developing, testing, and optimizing healthcare-related AI prompts for clinical and operational use.
-
-Key Components
-
-. Prompt design
-. Prompt testing
-. Quality evaluation
-. Optimization process
-. Clinical implementation
-
-
-
-Portfolio Objective
-
-This repository demonstrates practical Clinical AI applications developed by a physician transitioning into Clinical AI Specialist roles. The projects focus on safe, responsible, and effective integration of artificial intelligence into healthcare workflows.
+All projects are intended for educational,portfolio, and workflow demonstration purposes only.
+AI systems should always be used under appropriate professional oversight and should not replace clinical judgment or independent Disclaimer
+All projects are intended for educational,portfolio, and workflow demonstration purposes only.
+AI systems should always be used under appropriate professional oversight and should not replace clinical judgment or independent medical decision-making.
